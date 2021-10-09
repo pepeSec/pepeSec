@@ -16,8 +16,8 @@
 
 ##
 
-- 🌱 Atualmente estou aprendendo  HTML, CSS3 e JavaScript
-- 🤔 Estou procurando ajuda para estudar Segurança de Informação e Pentest
-- 😄 Pronomes: ele/dele
+ 🌱 Atualmente estou aprendendo  HTML, CSS3 e JavaScript
+ 🤔 Estou procurando ajuda para estudar Segurança de Informação e Pentest
+ 😄 Pronomes: ele/dele
 
 ![Snake animation](https://github.com/pepeSec/pepeSec/blob/output/github-contribution-grid-snake.svg)
