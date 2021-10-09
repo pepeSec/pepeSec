@@ -13,7 +13,7 @@
     <img align="center" alt="pepeSec-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   <a href="https://www.instagram.com/pepesec.pentester/" target="_blank">
-    <img align="center" alt="pepeSec-Insta" height="40" width="40" src="">
+    <img align="center" alt="pepeSec-Insta" height="40" width="40" src="https://icongr.am/entypo/instagram.svg?size=128&color=ffffff">
   </a>
 </div>
 
