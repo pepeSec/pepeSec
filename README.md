@@ -2,7 +2,7 @@
 
 ## I'm Henrique Marques
 
--  I live in :brazil:, southeast 🌅😎
+-  I live in brazil , southeast 🌅😎
 - 🌱 I'm currently learning Html Css JavaScript and Python
 - 🤔 I am looking for help to study Information Security and Pentest :computer:
 - 😄 Pronouns: he/his
