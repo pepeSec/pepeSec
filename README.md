@@ -2,10 +2,10 @@
 
 ## I'm Henrique Marques
 
--  I live in
-- 🌱 Atualmente estou aprendendo  HTML, CSS3 e JavaScript
-- 🤔 Estou procurando ajuda para estudar Segurança de Informação e Pentest
-- 😄 Pronomes: ele/dele
+-  I live in 🇧🇷
+- 🌱 I'm currently learning Html Css JavaScript and Python
+- 🤔 I am looking for help to study Information Security and Pentest
+- 😄 Pronouns: he/his
 
 ##
 
