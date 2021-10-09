@@ -2,9 +2,9 @@
 
 ## I'm Henrique Marques
 
--  I live in 🇧🇷
+-  I live in :brazil:
 - 🌱 I'm currently learning Html Css JavaScript and Python
-- 🤔 I am looking for help to study Information Security and Pentest
+- 🤔 I am looking for help to study Information Security and Pentest :computer:
 - 😄 Pronouns: he/his
 
 ##
