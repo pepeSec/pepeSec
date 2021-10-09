@@ -1,11 +1,15 @@
-###  Hi there
+###  Hi there 👋
 
 ## I'm Henrique Marques
 
--  I live in :brazil:
+-  I live in :brazil:, southeast 🌅😎
 - 🌱 I'm currently learning Html Css JavaScript and Python
 - 🤔 I am looking for help to study Information Security and Pentest :computer:
 - 😄 Pronouns: he/his
+
+## Connect with me
+
+
 
 ##
 
@@ -15,7 +19,7 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pepeSec&layout=compact&langs_count=7&theme=dark" />
 </div>
 
-##
+## My Skills
 
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "pepeSec-Html" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
