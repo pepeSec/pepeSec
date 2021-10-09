@@ -8,12 +8,13 @@
 - 😄 Pronouns: he/his
 
 ## Connect with me
-
-
-
+<div align = "center">
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
+</div>
 ##
 
-<div align = "center">
+<div>
   <a href="https://github.com/pepeSec">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=pepeSec&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pepeSec&layout=compact&langs_count=7&theme=dark" />
