@@ -8,12 +8,12 @@
 - 😄 Pronouns: he/his
 
 ## Connect with me
-<div align = "center"> <br>
+<div> <br>
   <a href="https://www.linkedin.com/in/henrique-marques-feliciano-8370aa223/">
     <img align = "center" alt = "pepeSec-linkedin" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   <a>
-    <>
+    <img>
   </a>
 </div>
 
@@ -21,8 +21,8 @@
 
 <div align = "center" > <br>
   <a href="https://github.com/pepeSec">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=pepeSec&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pepeSec&layout=compact&langs_count=7&theme=dark" />
+  <img align = "left" height = "180em" src = "https://github-readme-stats.vercel.app/api?username=pepeSec&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img align = "right" height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pepeSec&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 ## My Skills
