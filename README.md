@@ -1,5 +1,5 @@
 ##  Olá ! Eu sou Henrique Marques Feliciano
-<!--
+
 <div align = "center">
   <a href="https://github.com/pepeSec">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=pepeSec&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -16,7 +16,7 @@
   <img align = "center" alt = "Rafa-Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg ">
 
 </div>
--->
+
 - 🌱 Atualmente estou aprendendo  HTML, CSS3 e JavaScript
 - 🤔 Estou procurando ajuda para estudar Segurança de Informação e Pentest
 - 😄 Pronomes: ele/dele
