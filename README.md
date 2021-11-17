@@ -19,12 +19,21 @@
 
 ## Estatisticas
 
-<div align = "center" > <br>
-  <a href="https://github.com/pepeSec">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pepeSec&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepeSec&layout=compact&langs_count=7&theme=dark" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepeSec&layout=compact&langs_count=7&theme=dracula"
+    />
   </a>
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=pepeSec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
 
 ## My Skills
 
