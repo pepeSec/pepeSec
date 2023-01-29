@@ -47,7 +47,7 @@
   <a href="https://www.instagram.com/pepesec.pentester/" target="_blank">
     <img align = "center" src = "https://img.shields.io/badge/-pepeSec-05122A?style=flat&logo=instagram" alt = "instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/henrique-marques-feliciano-8370aa223/" target="_blank">
+  <a href="https://www.linkedin.com/in/henrique-marques-feliciano-b49170261/" target="_blank">
     <img align = "center" src = "https://img.shields.io/badge/-pepeSec-05122A?style=flat&logo=linkedin" alt = "linkedin" />
   </a>
 </p>
