@@ -1,11 +1,11 @@
-<h1 align = "left"> Olá <img src = "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/Hand-With-Fingers-Splayed-Flat-Light-icon.png" width = "30px">, eu sou o pepeSec! </h1>
+<h1 align = "left"> Hi <img src = "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/Hand-With-Fingers-Splayed-Flat-Light-icon.png" width = "30px">, i'm Henrique or Humbertoxxs! </h1>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pepeSec&color=blueviolet" alt = "Visualizações de perfil" /> </p>
 
 
 -  I live in brazil southeast 🌅😎
 - 🌱 I'm currently learning Html Css JavaScript and Python
-- 🤔 I am looking for help to study Information Security and Pentest :computer:
-- 😄 Pronouns: he/his
+- 🤔 I am looking for help to study Information Security and Pentest 🖥️
+- Recently, I have been studying Hardware, and I have enjoyed working with various types of technology, especially computers and servers
 
 ## ⚙️ &nbsp; GitHub Analytics
 <br>
@@ -26,7 +26,7 @@
 </p>
 <br>
 
-##  🛠 &nbsp; Pilha de Tecnologia
+##  🛠 &nbsp; Tech Depo
 <br>
 
 ![ HTML ](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) &nbsp;
