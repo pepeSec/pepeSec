@@ -1,4 +1,4 @@
-<h1 align = "left"> Olá <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, eu sou o pepeSec! </h1>
+<h1 align = "left"> Olá <img src = "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/Hand-With-Fingers-Splayed-Flat-Light-icon.png" width = "30px">, eu sou o pepeSec! </h1>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pepeSec&color=blueviolet" alt = "Visualizações de perfil" /> </p>
 
 
