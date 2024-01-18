@@ -2,4 +2,4 @@
 
 # My Stats or Meus Status
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={pepeSec}&theme={github})]
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={pepeSec}&theme={buefy})]
