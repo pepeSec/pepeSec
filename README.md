@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Henrique Marques Feliciano</h1>
 <h3 align="center">Sou um entusiasta na arte da Tecnologia, gosto muito de aprender qualquer tipo de tecnologia.</h3>
 
-- 🌱 Atualmente estou Estudando na faculdade da Unip, Cursando Analise e Desenvolvimento de Sistemas **Também estudo Python, Redes e Desenvolvimento Web.**
+- 🌱 Atualmente estou Estudando na faculdade da Unip, Cursando **Analise e Desenvolvimento de Sistemas** *Também estudo **Python, Redes e Desenvolvimento Web.***
 
 - 📫 Como você pode me contatar **devweb.pepe@gmail.com ou henrique.feliciano@aluno.unip.br**
 
