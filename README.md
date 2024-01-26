@@ -6,7 +6,7 @@ Olá, eu sou Henrique Marques Feliciano, um entusiasta de tecnologia com 18 anos
 
 💻 Habilidades:
 
-- Linguagens: Python, [Adicione outras linguagens que você domina].
+- Linguagens: Python, Javascript, HTML5, CSS.
 - Desenvolvimento de Aplicações: Automatização de processos, scripts e soluções práticas.
 - Segurança Cibernética: Interessado em fortalecer a segurança digital e entender as complexidades do ciberespaço.
 
