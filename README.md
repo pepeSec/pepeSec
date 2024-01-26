@@ -1,4 +1,16 @@
-<h1 align="center">Olá 👋, Eu sou Henrique Marques Feliciano</h1>
+#👋 Olá, Mundo! | Sou Henrique Marques Feliciano
+
+🚀 Sobre Mim:
+Olá, eu sou Henrique Marques Feliciano, um entusiasta de tecnologia com 18 anos, apaixonado por desenvolvimento de software e cibersegurança. Atualmente, estou explorando o vasto mundo do código e contribuindo para projetos que desafiem e inspirem meu crescimento profissional.
+
+💻 Habilidades:
+
+Linguagens: Python, [Adicione outras linguagens que você domina].
+Desenvolvimento de Aplicações: Automatização de processos, scripts e soluções práticas.
+Segurança Cibernética: Interessado em fortalecer a segurança digital e entender as complexidades do ciberespaço.
+🛠️ Projetos Destacados:
+
+[Nome do Projeto 1] - [Breve descrição do projeto e link].
 
 [![](https://raw.githubusercontent.com/pepeSec/pepeSec/master/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/pepeSec/pepeSec/master/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/pepeSec/pepeSec/master/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
